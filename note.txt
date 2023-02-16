@@ -1,0 +1,5 @@
+* Available template engine in node js
+
+1. EJS: <P><%= name %> </p>
+2. Pug (Jade): <P># {name} </p>
+3. Handlebars: <P># {{name}} </p>
