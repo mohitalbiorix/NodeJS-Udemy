@@ -47,11 +47,12 @@ app.use(express.static(path.join(__dirname,'public'))); // use for static servng
 
 app.use((req,res,next)=>{
     // res.sendFile(path.join(__dirname,'views','404Error.html'))
-    res.status(404).render('404Error', {pageTitle: 'Page Not Found'});
+    res.status(404).render('404Error', {pageTitle: 'Page Not Found', path:''});
 })
 
 // app.set('view engine','pug');  for pug
-app.set('view engine','hbs');
+// app.set('view engine','hbs'); for hbs
+app.set('view engine','ejs');
 app.set('views', 'views') 
 
 
