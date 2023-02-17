@@ -1,5 +1,16 @@
 [
     {
-        "title": "abc"
+        "id": "123245",
+        "title": "abc",
+        "imageUrl": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?cs=srgb&dl=pexels-math-90946.jpg&fm=jpg",
+        "price": "$2500",
+        "description": "camera"
+    },
+    {
+        "id": "1232453",
+        "title": "dwwwdwdd",
+        "imageUrl": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?cs=srgb&dl=pexels-math-90946.jpg&fm=jpg",
+        "price": "220",
+        "description": "test"
     }
 ]
