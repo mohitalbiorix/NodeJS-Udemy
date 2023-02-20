@@ -1,16 +1,1 @@
-[
-    {
-        "id": "123245",
-        "title": "abc",
-        "imageUrl": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?cs=srgb&dl=pexels-math-90946.jpg&fm=jpg",
-        "price": "$2500",
-        "description": "camera"
-    },
-    {
-        "id": "1232453",
-        "title": "dwwwdwdd",
-        "imageUrl": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?cs=srgb&dl=pexels-math-90946.jpg&fm=jpg",
-        "price": "220",
-        "description": "test"
-    }
-]
+[{"id":"0.3806015562860683","title":"camera","imageUrl":"https://images.pexels.com/photos/2536965/pexels-photo-2536965.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=50080","price":"200","description":"test"},{"id":"0.9433693889437147","title":"dwdw","imageUrl":"https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZHVjdHxlbnwwfHwwfHw%3D&w=1000&q=80dw","price":"20","description":"dwdw"}]
