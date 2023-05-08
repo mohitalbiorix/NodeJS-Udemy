@@ -12,7 +12,7 @@ router.get('/add-product', productController.getAddProducts);
 router.get('/products', productController.getProducts);
 
 // admin/add-product => POST
-router.post('/add-product', productController.postAddProducts);
+router.post('/add-product', productController.postAddProduct);
 
 router.get('/edit-product/:productId', productController.getEditProduct);
 
@@ -21,5 +21,5 @@ router.post('/edit-product', productController.postEditProduct);
 router.post('/delete-product', productController.postDeleteProduct);
 
 
-exports.routes = router;
-exports.products = products;
+module.exports = router;
+// exports.products = products;
